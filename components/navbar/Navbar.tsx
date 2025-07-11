@@ -8,6 +8,7 @@ const navItems = [
   { path: '/pricing', text: 'Pricing' },
   { path: '/contact', text: 'Contact' },
   { path: '/contact', text: 'Contact' },
+  { path: '/contact', text: 'asas' },
 ]
 
 
