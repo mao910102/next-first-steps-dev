@@ -21,6 +21,7 @@ export const Navbar = () => {
       <Link href={'/'} className='flex items-center'>
         <HomeIcon className='mr-2' />
         <span>Home</span>
+        <span>hola chic@s</span>
       </Link>
 
       <div className="flex flex-1"></div>
